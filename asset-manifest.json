@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/aicc/static/css/main.9eb32401.css",
-    "main.js": "/aicc/static/js/main.a64233b6.js",
+    "main.js": "/aicc/static/js/main.b7bd9987.js",
     "static/js/787.4fd7e43f.chunk.js": "/aicc/static/js/787.4fd7e43f.chunk.js",
-    "static/media/logo.svg": "/aicc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aicc/index.html",
     "main.9eb32401.css.map": "/aicc/static/css/main.9eb32401.css.map",
-    "main.a64233b6.js.map": "/aicc/static/js/main.a64233b6.js.map",
+    "main.b7bd9987.js.map": "/aicc/static/js/main.b7bd9987.js.map",
     "787.4fd7e43f.chunk.js.map": "/aicc/static/js/787.4fd7e43f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9eb32401.css",
-    "static/js/main.a64233b6.js"
+    "static/js/main.b7bd9987.js"
   ]
 }
