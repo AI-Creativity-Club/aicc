@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="%PUBLIC_URL%/logo192.png" className="App-logo" alt="logo" />
         <p>
           <code>AICC webpage under contruction...</code>
         </p>
