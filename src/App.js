@@ -1,10 +1,11 @@
 import './App.css';
+import logo from './logo512.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="./public/logo192.png" className="App-logo" alt="logo1" />
+        <img src={logo} className="App-logo" alt="logo1" />
         <p>
           <code>AICC webpage under contruction...</code>
         </p>
